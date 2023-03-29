@@ -1,0 +1,18 @@
+box and target data is saved in [x,y,size] format
+duck_amount=4
+next_level=final
+sling_pos=[x,80,y,300]
+box1=[x,580,y,400,w,40]
+box2=[x,340,y,0,w,40]
+box3=[x,380,y,0,w,40]
+box4=[x,380,y,40,w,40]
+box5=[x,380,y,80,w,40]
+box6=[x,500,y,380,w,40]
+box7=[x,500,y,480,w,40]
+box8=[x,540,y,400,w,40]
+box9=[x,580,y,440,w,40]
+box10=[x,80,y,260,w,40]
+box11=[x,120,y,260,w,40]
+target1=[x,340,y,40,w,40]
+target2=[x,700,y,0,w,40]
+target3=[x,540,y,440,w,40]

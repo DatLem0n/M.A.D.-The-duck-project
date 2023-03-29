@@ -1,0 +1,10 @@
+box and target data is saved in [x,y,size] format
+duck_amount=4
+next_level=level_2.txt
+sling_pos=[x,80,y,0]
+box1=[x,580,y,0,w,40]
+box2=[x,580,y,40,w,40]
+box3=[x,580,y,80,w,40]
+box4=[x,540,y,0,w,40]
+box5=[x,620,y,0,w,40]
+target1=[x,580,y,120,w,40]
